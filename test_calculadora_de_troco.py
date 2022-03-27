@@ -1,4 +1,5 @@
 from calculadora_de_troco import *
+import unittest
 
 
 class CalculadoraDeTroco(unittest.TestCase):
